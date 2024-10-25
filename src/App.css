@@ -1,0 +1,22 @@
+#logo{
+  height: 40px;
+}
+
+.row{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 20px;
+  padding-top: 20px;
+  
+}
+
+.main{
+  background-color: rgb(87, 86, 86);
+}
+
+.row img{
+  height: 261px;
+  width: auto;
+}
